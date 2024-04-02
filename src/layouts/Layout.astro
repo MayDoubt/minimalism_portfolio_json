@@ -39,17 +39,15 @@ const { image, summary, url } = basics;
 </html>
 
 <style is:global>
+  @import url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap");
   :root {
+    --background: #fafafa;
+    --primary: #ff6f87;
   }
   html {
-    font-family:
-      Menlo,
-      Monaco,
-      Lucida Console,
-      "Courier New",
-      Courier,
-      monospace;
-    background: #fff;
+    font-family: "ui-monospace", "SFMono-Regular", Menlo, Monaco, Consolas,
+      "Liberation Mono", "Courier New", monospace;
+    background: var(--background);
     letter-spacing: -0.025rem;
   }
 
@@ -76,9 +74,7 @@ const { image, summary, url } = basics;
   }
 
   h1,
-  h2,
-  h3,
-  h4 {
+  h2 {
     margin: 0;
     font-family:
       system-ui,
@@ -92,6 +88,14 @@ const { image, summary, url } = basics;
       "Open Sans",
       "Helvetica Neue",
       sans-serif;
+  }
+
+  h3,
+  h4 {
+    margin: 0;
+    font-size: 0.875rem;
+    line-height: 1;
+    font-weight: inherit;
   }
 
   p {
