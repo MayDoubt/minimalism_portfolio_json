@@ -90,4 +90,14 @@ import Section from "../Section.astro";
     min-width: 120px;
     text-align: right;
   }
+
+  @media (max-width: 600px) {
+    header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    time {
+      text-align: left;
+    }
+  }
 </style>
