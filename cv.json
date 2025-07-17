@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Fernando Pérez",
-    "label": "Frontend Developer with 2 years of hands-on experience & Graphic Designer",
+    "label": "Desarrollador Frontend con experiencia profesional",
     "image": "https://media.licdn.com/dms/image/C4D03AQGg6adSXp4xKg/profile-displayphoto-shrink_800_800/0/1644270741286?e=1717027200&v=beta&t=MPDCzb-zWBVAqyYSxTwQx1NQyP8ufhh0PUybHdqr9Mk",
     "email": "ferprz.contact@gmail.com",
     "phone": "(+34) 685 201 125",
     "url": "https://johndoe.com",
-    "summary": "+2 years of experience as a frontend web developer. I live in Seville, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+"summary": "Soy un desarrollador Frontend con una sólida trayectoria desarrollando aplicaciones empresariales complejas mediante Angular. Acostumbrado a trabajar en entornos colaborativos, aporto soluciones robustas, escalables y mantenibles, cuidando tanto la arquitectura como la experiencia de usuario. Con una visión técnica clara y capacidad para adaptarme a equipos y flujos de trabajo exigentes, contribuyo a acelerar el desarrollo y mejorar la calidad del producto final.",
     "location": {
-      "city": "Seville",
+      "city": "Sevilla",
       "countryCode": "ES",
-      "region": "Spain"
+      "region": "España"
     },
     "profiles": [
       {
@@ -25,16 +25,37 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "NTT Data Spain",
-      "position": "Frontend Developer",
-      "url": "https://es.nttdata.com/",
-      "startDate": "2022-03-01",
-      "endDate": null,
-      "summary": "Development and maintenance of Angular projects for different clients."
-    }
-  ],
+"work": [
+{
+    "name": "NTT DATA Spain",
+    "position": "Frontend Developer",
+    "url": "https://es.nttdata.com/",
+    "startDate": "2024-07-01",
+    "endDate": null,
+    "summary": "Desarrollo y evolución de aplicaciones empresariales en diferentes proyectos de Red Eléctrica de España (REE)",
+    "highlights": [
+      "Diseñé e implementé componentes reutilizables y estructuras escalables en Angular que mejoraron la eficiencia y mantenibilidad del código.",
+      "Contribuí a la modernización de pipelines de integración y despliegue con GitLab CI y AWS Amplify.",
+      "Resolví incidencias complejas relacionadas con rendimiento, arquitectura y pruebas, elevando la calidad de las entregas.",
+      "Me impliqué en la definición de estándares de desarrollo y buenas prácticas dentro del equipo técnico.",
+      "Participé activamente en todas las ceremonias Agile (dailies, plannings, retrospectivas), facilitando la comunicación y alineación entre perfiles funcionales y técnicos."
+    ]
+  },
+  {
+    "name": "NTT DATA Spain",
+    "position": "Frontend Junior Developer",
+    "url": "https://es.nttdata.com/",
+    "startDate": "2023-06-01",
+    "endDate": "2024-04-01",
+    "summary": "Desarrollo de aplicaciones con Angular 12 para varios proyectos en Red Eléctrica de España (REE).",
+    "highlights": [
+      "Me incorporé a un equipo senior en un entorno Agile, adaptándome rápidamente al flujo de trabajo de desarrollo continuo.",
+      "Participé en tareas de mantenimiento y desarrollo evolutivo, consolidando mis conocimientos de Angular y buenas prácticas de desarrollo.",
+      "Colaboré en la gestión de versiones con Bitbucket y la integración continua con Bamboo.",
+      "Aporté una visión de diseño y usabilidad en tareas específicas, mejorando la claridad de componentes en producción."
+    ]
+  }
+],
   "volunteer": [
     {
       "organization": "Organization",
@@ -48,24 +69,24 @@
   ],
   "education": [
     {
-      "institution": "Cesur Seville",
+      "institution": "Cesur Sevilla",
       "url": "https://www.cesurformacion.com/fp/desarrollo-de-aplicaciones-web",
-      "area": "Web Development",
-      "studyType": "Higher Degree",
+      "area": "Desarrollo Web",
+      "studyType": "Ciclo Superior de Formación Profesional",
       "startDate": "2021-09-01",
       "endDate": "2023-05-01",
       "score": "10.0",
-      "courses": ["Web applications development"]
+      "courses": ["Desarrollo de aplicaciones web"]
     },
     {
-      "institution": "University of Fine Arts of Seville",
+      "institution": "Universidad de Bellas Artes de Sevilla",
       "url": "https://bellasartes.us.es/",
-      "area": "Graphic design",
-      "studyType": "Bachelor",
+      "area": "Diseño gráfico",
+      "studyType": "Grado",
       "startDate": "2009-09-01",
       "endDate": "2014-05-01",
       "score": "10.0",
-      "courses": ["Bachelor's degree in engraving and design"]
+      "courses": ["Grado en Grabado y Diseño"]
     }
   ],
   "awards": [
@@ -94,98 +115,125 @@
     }
   ],
   "skills": [
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": ["Web development", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": ["Web development", "Frontend", "Diseño Responsive"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "Bootstrap",
-      "level": "Advanced",
-      "keywords": [
-        "Web development",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": ["Web development", "Backend", "JavaScript", "Servidor"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
-    },
-    {
-      "name": "MongoDb",
-      "level": "Advanced",
-      "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": ["Version control", "Colaboración", "Source code"]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "Angular",
-      "level": "Advanced",
-      "keywords": ["Web development", "Frontend", "JavaScript Library", "UI"]
-    }
-  ],
+  {
+    "name": "HTML",
+    "level": "Master",
+    "keywords": ["Web development", "Frontend"]
+  },
+  {
+    "name": "CSS",
+    "level": "Master",
+    "keywords": ["Web development", "Frontend", "Diseño Responsive"]
+  },
+  {
+    "name": "SCSS",
+    "level": "Advanced",
+    "keywords": ["Web development", "CSS preprocessor"]
+  },
+  {
+    "name": "JavaScript",
+    "level": "Master",
+    "keywords": ["Web development", "Frontend", "Backend", "Fullstack"]
+  },
+  {
+    "name": "TypeScript",
+    "level": "Advanced",
+    "keywords": ["Web development", "Frontend", "Backend", "JavaScript Superset"]
+  },
+  {
+    "name": "Tailwind",
+    "level": "Advanced",
+    "keywords": ["Web development", "Frontend", "CSS Framework", "Diseño Responsive"]
+  },
+  {
+    "name": "Bootstrap",
+    "level": "Advanced",
+    "keywords": ["Web development", "Frontend", "CSS Framework", "Diseño Responsive"]
+  },
+  {
+    "name": "Angular",
+    "level": "Advanced",
+    "keywords": ["Web development", "Frontend", "JavaScript Framework", "UI", "v12-v19"]
+  },
+  {
+    "name": "React",
+    "level": "Intermediate",
+    "keywords": ["Web development", "Frontend", "JavaScript Framework"]
+  },
+  {
+    "name": "Astro",
+    "level": "Intermediate",
+    "keywords": ["Frontend", "Static Site Generator", "JavaScript Framework"]
+  },
+  {
+    "name": "Next.js",
+    "level": "Advanced",
+    "keywords": ["Web development", "Frontend", "React Framework", "SSR", "Static Generation"]
+  },
+  {
+    "name": "Node",
+    "level": "Advanced",
+    "keywords": ["Web development", "Backend", "JavaScript", "Servidor"]
+  },
+  {
+    "name": "MySQL",
+    "level": "Advanced",
+    "keywords": ["Bases de Datos", "SQL", "Database", "Backend"]
+  },
+  {
+    "name": "MongoDb",
+    "level": "Advanced",
+    "keywords": ["Bases de Datos", "NoSQL", "Database", "Backend"]
+  },
+  {
+    "name": "Git",
+    "level": "Advanced",
+    "keywords": ["Version control", "Colaboración", "Source code"]
+  },
+  {
+    "name": "GitHub",
+    "level": "Advanced",
+    "keywords": ["Version control", "Remote repositories"]
+  },
+  {
+    "name": "Bitbucket",
+    "level": "Advanced",
+    "keywords": ["Version control", "CI/CD", "Remote repositories"]
+  },
+  {
+    "name": "GitLab",
+    "level": "Advanced",
+    "keywords": ["Version control", "CI/CD", "DevOps"]
+  },
+  {
+    "name": "AWS Amplify",
+    "level": "Intermediate",
+    "keywords": ["CI/CD", "Cloud", "Frontend Hosting", "DevOps"]
+  },
+  {
+    "name": "Bamboo",
+    "level": "Intermediate",
+    "keywords": ["CI/CD", "Integración continua", "DevOps"]
+  },
+  {
+    "name": "Jest",
+    "level": "Advanced",
+    "keywords": ["Testing", "JavaScript", "Unit tests", "Frontend"]
+  },
+  {
+    "name": "Figma",
+    "level": "Advanced",
+    "keywords": ["UI/UX", "Design", "Prototyping"]
+  }
+],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+      "language": "Inglés",
+      "fluency": "Intermedio alto"
+    },
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "language": "Español",
+      "fluency": "Nativo"
     }
   ],
   "references": [

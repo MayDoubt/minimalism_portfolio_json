@@ -3,7 +3,7 @@ import { work } from "@cv";
 import Section from "../Section.astro";
 ---
 
-<Section title="Work Experience">
+<Section title="Experiencia Laboral">
   <ul>
     {
       work.map(
@@ -24,6 +24,12 @@ import Section from "../Section.astro";
                 </header>
                 <footer>
                   <p>{summary}</p>
+                  <h5>Principales aportaciones:</h5>
+                  <ul>
+                    {highlights.map((highlight) => (
+                      <li>{highlight}</li>
+                    ))}
+                  </ul>
                 </footer>
               </article>
             </li>
@@ -63,6 +69,19 @@ import Section from "../Section.astro";
 
   footer p {
     font-size: 0.8rem;
+  }
+
+  footer h5 {
+    margin-bottom: 0.5rem;
+  }
+
+  footer ul {
+    padding-left: 1rem;
+    list-style-type: "• ";
+    font-size: 0.8rem;
+    color: #666;
+    line-height: 1.5;
+    gap: 0.7rem;
   }
 
   time {

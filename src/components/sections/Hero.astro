@@ -53,7 +53,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
         {
           phone && (
             <a
-              href={`phoneto:${email}`}
+              href={`tel:${phone}`}
               title={`Call to ${name}`}
               target="_blank"
               rel="noopener noreferrer"
@@ -104,7 +104,6 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 
   h1 {
     font-size: 2rem;
-    text-decoration: underline wavy hotpink;
     text-underline-offset: 8px;
     margin-bottom: 8px;
   }

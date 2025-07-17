@@ -1,12 +1,15 @@
 ---
-import { basics } from '@cv';
+import { basics, skills } from "@cv";
 import Section from "../Section.astro";
 
 const { summary } = basics;
+
+const summaryFormatted = summary.replace(
+  new RegExp(`\\b(${skills.map((skill) => skill.name).join("|")})\\b`, "gi"),
+  (match) => `<span style="color: black; font-weight: 700;">${match}</span>`
+);
 ---
 
-<Section title="About">
-    <p>
-        {summary}
-    </p>
+<Section title="Sobre mí">
+  <p class="summary" set:html={summaryFormatted} />
 </Section>
