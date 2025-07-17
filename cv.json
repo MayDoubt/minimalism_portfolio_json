@@ -1,12 +1,13 @@
 {
   "basics": {
     "name": "Fernando Pérez",
+    "alias": "Fperez",
     "label": "Desarrollador Frontend con experiencia profesional",
-    "image": "https://media.licdn.com/dms/image/C4D03AQGg6adSXp4xKg/profile-displayphoto-shrink_800_800/0/1644270741286?e=1717027200&v=beta&t=MPDCzb-zWBVAqyYSxTwQx1NQyP8ufhh0PUybHdqr9Mk",
+    "image": "fperez-cv.webp",
     "email": "ferprz.contact@gmail.com",
     "phone": "(+34) 685 201 125",
     "url": "https://johndoe.com",
-"summary": "Soy un desarrollador Frontend con una sólida trayectoria desarrollando aplicaciones empresariales complejas mediante Angular. Acostumbrado a trabajar en entornos colaborativos, aporto soluciones robustas, escalables y mantenibles, cuidando tanto la arquitectura como la experiencia de usuario. Con una visión técnica clara y capacidad para adaptarme a equipos y flujos de trabajo exigentes, contribuyo a acelerar el desarrollo y mejorar la calidad del producto final.",
+    "summary": "Soy un desarrollador Frontend con una sólida trayectoria desarrollando aplicaciones empresariales complejas mediante Angular. Acostumbrado a trabajar en entornos colaborativos, aporto soluciones robustas, escalables y mantenibles, cuidando tanto la arquitectura como la experiencia de usuario. Con una visión técnica clara y capacidad para adaptarme a equipos y flujos de trabajo exigentes, contribuyo a acelerar el desarrollo y mejorar la calidad del producto final.",
     "location": {
       "city": "Sevilla",
       "countryCode": "ES",

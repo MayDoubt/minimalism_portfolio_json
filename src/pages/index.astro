@@ -11,10 +11,10 @@ import KeyboardManager from "@/components/KeyboardManager.astro";
 
 import { basics } from "@cv";
 import Languages from "@/components/sections/Languages.astro";
-const { name, label } = basics;
+const { alias } = basics;
 ---
 
-<Layout title={`${name}'s Portfolio - ${label}`}>
+<Layout title={`${alias}_minimalism-portfolio`}>
   <main>
     <Hero />
     <About />
@@ -22,7 +22,7 @@ const { name, label } = basics;
     <Education />
     <Skills />
     <Languages />
-    <Projects />
+    <!-- <Projects /> -->
   </main>
   <KeyboardManager />
 </Layout>

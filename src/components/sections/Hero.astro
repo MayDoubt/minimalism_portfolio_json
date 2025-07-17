@@ -23,10 +23,11 @@ const linkedUrl = linkedInfor?.url;
 const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 ---
 
-<Section>
+<Section animationDelay="0">
   <div class="container">
     <div class="info">
       <h1>{name}</h1>
+      <div class="divider"></div>
       <h2>{label}</h2>
       <span>
         <WorldMap />
@@ -105,6 +106,14 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
   h1 {
     font-size: 2rem;
     text-underline-offset: 8px;
+  }
+
+  .divider {
+    width: 100px;
+    height: 3px;
+    background-color: #28b351;
+    border: none;
+    margin-top: 4px;
     margin-bottom: 8px;
   }
 
