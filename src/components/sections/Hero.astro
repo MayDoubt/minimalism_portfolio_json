@@ -165,4 +165,19 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
   footer a:hover {
     background-color: #eee;
   }
+
+  @media (max-width: 600px) {
+    .container {
+      flex-direction: column-reverse;
+      align-items: stretch;
+    }
+    figure {
+      margin-bottom: 1rem;
+      display: flex;
+      justify-content: center;
+    }
+    .info {
+      padding-right: 0;
+    }
+  }
 </style>

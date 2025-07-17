@@ -10,7 +10,7 @@ import Section from "../Section.astro";
         ({ name, startDate, endDate, position, summary, highlights }) => {
           const startYear = new Date(startDate).getFullYear();
           const endYear =
-            endDate !== null ? new Date(endDate).getFullYear() : "Present";
+            endDate !== null ? new Date(endDate).getFullYear() : "Presente";
           const years = `${startYear} - ${endYear}`;
           return (
             <li>
@@ -87,5 +87,7 @@ import Section from "../Section.astro";
   time {
     color: #555;
     font-size: 0.85rem;
+    min-width: 120px;
+    text-align: right;
   }
 </style>
