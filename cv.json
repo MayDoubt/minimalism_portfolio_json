@@ -7,7 +7,7 @@
     "email": "ferprz.contact@gmail.com",
     "phone": "(+34) 685 201 125",
     "url": "https://johndoe.com",
-    "summary": "Desarrollador Frontend dedicado con más de 2 años de experiencia, con dominio de JavaScript, TypeScript y frameworks modernos como React o Astro. En mi tiempo libre, disfruto creando proyectos personales y explorando nuevas tecnologías y herramientas ademas desarrollar videojuegos en Godot y Unity.",
+    "summary": "Desarrollador Frontend con más de 2 años de experiencia, con dominio de JavaScript, TypeScript y frameworks modernos como React o Astro. En mi tiempo libre, disfruto creando proyectos personales y explorando nuevas tecnologías y herramientas, además de desarrollar videojuegos en Godot y Unity.",
     "location": {
       "city": "Sevilla",
       "countryCode": "ES",
@@ -33,12 +33,12 @@
       "url": "https://es.nttdata.com/",
       "startDate": "2024-07-01",
       "endDate": null,
-      "summary": "Desarrollo y evolución de aplicaciones empresariales en diferentes proyectos de Red Eléctrica de España (REE)",
+      "summary": "Desarrollo y evolución de aplicaciones empresariales en diferentes proyectos de Red Eléctrica de España (REE).",
       "highlights": [
-        "Diseñé e implementé componentes reutilizables y estructuras escalables en Angular que mejoraron la eficiencia y mantenibilidad del código.",
+        "Diseñé e implementé componentes reutilizables y estructuras escalables en Angular, que mejoraron la eficiencia y mantenibilidad del código.",
         "Contribuí a la modernización de pipelines de integración y despliegue con GitLab CI y AWS Amplify.",
-        "Resolví incidencias complejas relacionadas con rendimiento, arquitectura y pruebas, elevando la calidad de las entregas.",
-        "Trabaje con librerias de terceros como Highcharts, Angular Material, PrimeNG y otras."
+        "Resolví incidencias complejas relacionadas con el rendimiento, la arquitectura y las pruebas, elevando la calidad de las entregas.",
+        "Trabajé con librerías de terceros como Highcharts, Angular Material, PrimeNG y otras."
       ]
     },
     {
@@ -51,7 +51,7 @@
       "highlights": [
         "Participé en tareas de mantenimiento y desarrollo evolutivo de la aplicación, mejorando la experiencia de usuario y la eficiencia del código.",
         "Incorporé utilidades que optimizaron el rendimiento de la aplicación.",
-        "Aporté una visión de diseño y usabilidad en tareas específicas, mejorando la claridad de componentes en producción."
+        "Aporté una visión de diseño y usabilidad en tareas específicas, mejorando la claridad de los componentes en producción."
       ]
     }
   ],
@@ -62,8 +62,8 @@
       "url": "https://organization.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "summary": "Descripción…",
+      "highlights": ["Premiado como 'Voluntario del Mes'"]
     }
   ],
   "education": [
@@ -90,27 +90,27 @@
   ],
   "awards": [
     {
-      "title": "Award",
+      "title": "Premio",
       "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "awarder": "Empresa",
+      "summary": "No hay cuchara."
     }
   ],
   "certificates": [
     {
-      "name": "Certificate",
+      "name": "Certificado",
       "date": "2021-11-07",
-      "issuer": "Company",
+      "issuer": "Empresa",
       "url": "https://certificate.com"
     }
   ],
   "publications": [
     {
-      "name": "Publication",
-      "publisher": "Company",
+      "name": "Publicación",
+      "publisher": "Empresa",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
-      "summary": "Description…"
+      "summary": "Descripción…"
     }
   ],
   "skills": [
