@@ -53,6 +53,15 @@
         "Incorporé utilidades que optimizaron el rendimiento de la aplicación.",
         "Aporté una visión de diseño y usabilidad en tareas específicas, mejorando la claridad de los componentes en producción."
       ]
+    },
+    {
+      "name": "NTT DATA Spain",
+      "position": "Formación profesional dual",
+      "url": "https://es.nttdata.com/",
+      "startDate": "2022-03-01",
+      "endDate": "2023-06-01",
+      "summary": "Desarrollo de aplicaciones con Angular 12 para varios proyectos en Red Eléctrica de España (REE).",
+      "highlights": []
     }
   ],
   "volunteer": [
